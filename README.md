@@ -20,7 +20,7 @@ pip install pycryptodome && pip install Crypto && pip install Crypto
 
 pip install stdiomask && pip install rich && pip instal colorama && pip install bs4
 
-python MULTI.py
+python Brute.py
 
 # Use Password
 
