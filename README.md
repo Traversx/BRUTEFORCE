@@ -22,6 +22,6 @@ pip install stdiomask && pip install rich && pip instal colorama && pip install 
 
 python MULTI.py
 
-#Use Password
+# Use Password
 
-Download Pw:https://www.mediafire.com/file/mb9np6kipyicg15/pw.txt.zip/file
+Download Pw : https://www.mediafire.com/file/mb9np6kipyicg15/pw.txt.zip/file
